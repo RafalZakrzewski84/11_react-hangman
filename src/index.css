@@ -1,7 +1,12 @@
-@import url("https://fonts.googleapis.com/css?family=Coming+Soon");
+/** @format */
+
+@import url('https://fonts.googleapis.com/css?family=Coming+Soon');
+* {
+	box-sizing: border-box;
+}
 
 body {
-  margin: 0;
-  padding: 0;
-  font-family: "Coming Soon", cursive;
+	margin: 0;
+	padding: 0;
+	font-family: 'Coming Soon', cursive;
 }
